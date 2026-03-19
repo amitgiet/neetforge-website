@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="NeetForge">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff6b35"/>
+      <stop offset="100%" stop-color="#ff8f5a"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="#1a1a2e"/>
+  <path d="M58 188V68h24l64 82V68h22v120h-22L80 104v84H58z" fill="url(#g)"/>
+  <path d="M178 84h20l-8 28h26l-5 18h-26l-8 28h-20l8-28h-22l5-18h22l8-28z" fill="#ffffff"/>
+</svg>

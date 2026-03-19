@@ -1,9 +1,16 @@
 {
-  "name": "Website App",
-  "short_name": "Website",
+  "name": "NeetForge Website",
+  "short_name": "NeetForge",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1a1a2e",
-  "icons": []
+  "icons": [
+    {
+      "src": "/neetforge.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
 }
